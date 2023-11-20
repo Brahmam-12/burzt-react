@@ -2,7 +2,7 @@ import { useContext } from "react";
 import { studentsContext } from "../providers/StudentsContextProvider";
 import '../App.css';
 import { useEffect } from "react";
-import Student from "./Student";
+import Student from "./student";
 
 const OtherStudents = () => {
     const {otherStudents, getOtherStudents} = useContext(studentsContext);
