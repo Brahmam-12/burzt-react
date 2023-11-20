@@ -3,7 +3,7 @@ import { Routes, Route, Navigate } from "react-router-dom";
 import SignIn from "./components/signIn";
 import SignUp from "./components/signUp";
 import Navbar from "./components/navbar";
-import Home from "./components/Home";
+import Home from "./components/home";
 import OtherStudents from "./components/OtherStudents";
 import { studentsContext } from "./providers/StudentsContextProvider";
 
