@@ -4,7 +4,7 @@ import SignIn from "./components/signIn";
 import SignUp from "./components/signUp";
 import Navbar from "./components/navbar";
 import Home from "./components/home";
-import OtherStudents from "./components/OtherStudents";
+import OtherStudents from "./components/otherStudents";
 import { studentsContext } from "./providers/StudentsContextProvider";
 
 const App = () => {
